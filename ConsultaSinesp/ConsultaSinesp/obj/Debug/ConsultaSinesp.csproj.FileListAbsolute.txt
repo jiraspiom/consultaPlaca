@@ -1,0 +1,7 @@
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\bin\Debug\ConsultaSinesp.exe.config
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\bin\Debug\ConsultaSinesp.exe
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\bin\Debug\ConsultaSinesp.pdb
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\obj\Debug\ConsultaSinesp.csprojAssemblyReference.cache
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\obj\Debug\ConsultaSinesp.csproj.CoreCompileInputs.cache
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\obj\Debug\ConsultaSinesp.exe
+C:\Users\gilmar.silva\Documents\SINESP_Consulta\ConsultaSinesp\ConsultaSinesp\obj\Debug\ConsultaSinesp.pdb
