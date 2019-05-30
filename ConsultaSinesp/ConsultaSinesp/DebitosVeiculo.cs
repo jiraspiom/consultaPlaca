@@ -40,30 +40,6 @@
                 + "--------------------------------------------------------" + "\n\r"; 
 
 
-
-
-    //        return Id + ", "
-    //+ Nome + ", "
-    //+ Valor.ToString("F2", CultureInfo.InvariantCulture) + ", "
-    //+ Categoria.Nome + ", "
-    //+ Categoria.Classificacao;
-
-
-            //            print("restricao : " + situacao
-            //print("placa     : " + resultado.get('plate'))
-            //print("chassis   : " + resultado.get('chassis'))
-            //print("modelo    : " + resultado.get('model'))
-            //print("marca     : " + resultado.get('brand'))
-            //print("cor       : " + resultado.get('color'))
-            //print("ano/modelo: " + resultado.get('year') + "/" + resultado.get('model_year'))
-            //print("cidade    : " + resultado.get('city') + " - " + resultado.get('state'))
-            //print("data da consulta: " + resultado.get('date'))
-
-            //print("=========================================================")
-            //print("codigo: " + codigoRetorno + " resultado: " + resultado.get('return_message') + " status: " + resultado.get('status_code'))
-            //print("=========================================================")
-
-
         }
 
     }
